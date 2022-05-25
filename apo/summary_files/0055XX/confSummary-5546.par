@@ -1,12 +1,12 @@
 #%yanny
 #
-# confSummary-5545.par
+# confSummary-5546.par
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2022-05-25 09:18:30 UTC
+# 2022-05-25 09:27:30 UTC
 #
-configuration_id 5545
+configuration_id 5546
 robostrategy_run manual
 fps_calibrations_version APO.2022.04.21+55c1d22
 jaeger_version 0.15.2-alpha.0
@@ -17,7 +17,7 @@ field_id 21484
 focal_scale 0.999806967547781
 instruments BOSS APOGEE
 epoch 2459724.8350090147
-obstime Wed May 25 09:18:30 2022
+obstime Wed May 25 09:27:30 2022
 MJD 59724
 observatory APO
 temperature 10.5
@@ -27,7 +27,7 @@ pa 300.0
 is_dithered 0
 parent_configuration -999
 dither_radius -999.0
-cloned_from 5544
+cloned_from 5545
 
 typedef enum {
     BOSS,
