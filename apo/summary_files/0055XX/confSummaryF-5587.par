@@ -1,12 +1,12 @@
 #%yanny
 #
-# confSummaryF-5586.par
+# confSummaryF-5587.par
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
 # 2022-05-29 03:19:08 UTC
 #
-configuration_id 5586
+configuration_id 5587
 robostrategy_run zeta-0
 fps_calibrations_version APO.2022.04.21+55c1d22
 jaeger_version 0.15.2-alpha.0
@@ -27,7 +27,7 @@ pa 0.0
 is_dithered 0
 parent_configuration -999
 dither_radius -999.0
-cloned_from -999
+cloned_from 5586
 fvc_centroid_method nudge
 fvc_rms 0.02372
 fvc_90_perc 0.0098
